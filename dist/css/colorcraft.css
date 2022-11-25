@@ -1,0 +1,134 @@
+/*!
+ * Colorcraft  v1.0.0
+ * Copyright 2022 Febriansyah
+ * Licensed under MIT (https://github.com/febryars33/colorcraft/blob/main/LICENSE)
+ */
+.colorcraft.mc-black {
+  color: #000000;
+}
+
+.colorcraft.mc-bg-black {
+  background-color: #000000;
+}
+
+.colorcraft.mc-dark-blue {
+  color: #0000AA;
+}
+
+.colorcraft.mc-bg-dark-blue {
+  background-color: #0000AA;
+}
+
+.colorcraft.mc-dark-green {
+  color: #00AA00;
+}
+
+.colorcraft.mc-bg-dark-green {
+  background-color: #00AA00;
+}
+
+.colorcraft.mc-dark-aqua {
+  color: #00AAAA;
+}
+
+.colorcraft.mc-bg-dark-aqua {
+  background-color: #00AAAA;
+}
+
+.colorcraft.mc-dark-red {
+  color: #AA0000;
+}
+
+.colorcraft.mc-bg-dark-red {
+  background-color: #AA0000;
+}
+
+.colorcraft.mc-dark-purple {
+  color: #AA00AA;
+}
+
+.colorcraft.mc-bg-dark-purple {
+  background-color: #AA00AA;
+}
+
+.colorcraft.mc-gold {
+  color: #FFAA00;
+}
+
+.colorcraft.mc-bg-gold {
+  background-color: #FFAA00;
+}
+
+.colorcraft.mc-gray {
+  color: #AAAAAA;
+}
+
+.colorcraft.mc-bg-gray {
+  background-color: #AAAAAA;
+}
+
+.colorcraft.mc-dark-gray {
+  color: #555555;
+}
+
+.colorcraft.mc-bg-dark-gray {
+  background-color: #555555;
+}
+
+.colorcraft.mc-blue {
+  color: #5555FF;
+}
+
+.colorcraft.mc-bg-blue {
+  background-color: #5555FF;
+}
+
+.colorcraft.mc-green {
+  color: #55FF55;
+}
+
+.colorcraft.mc-bg-green {
+  background-color: #55FF55;
+}
+
+.colorcraft.mc-aqua {
+  color: #55FFFF;
+}
+
+.colorcraft.mc-bg-aqua {
+  background-color: #55FFFF;
+}
+
+.colorcraft.mc-red {
+  color: #FF5555;
+}
+
+.colorcraft.mc-bg-red {
+  background-color: #FF5555;
+}
+
+.colorcraft.mc-light-purple {
+  color: #FF55FF;
+}
+
+.colorcraft.mc-bg-light-purple {
+  background-color: #FF55FF;
+}
+
+.colorcraft.mc-yellow {
+  color: #FFFF55;
+}
+
+.colorcraft.mc-bg-yellow {
+  background-color: #FFFF55;
+}
+
+.colorcraft.mc-white {
+  color: #FFFFFF;
+}
+
+.colorcraft.mc-bg-white {
+  background-color: #FFFFFF;
+}
+
+/*# sourceMappingURL=colorcraft.css.map */
