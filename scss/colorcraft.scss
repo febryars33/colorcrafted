@@ -1,0 +1,20 @@
+/*!
+ * Colorcraft  v1.0.0
+ * Copyright 2022 Febriansyah
+ * Licensed under MIT (https://github.com/febryars33/colorcraft/blob/main/LICENSE)
+ */
+@import 'variables';
+
+// scss-docs-start colorcraft-color-loops
+@each $color,
+$value in $colors {
+  .colorcraft.mc-#{$color} {
+    color: $value;
+  }
+
+  .colorcraft.mc-bg-#{$color} {
+    background-color: $value;
+  }
+}
+
+// scss-docs-end colorcraft-color-loops
