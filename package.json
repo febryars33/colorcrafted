@@ -1,9 +1,6 @@
 {
-  "name": "colorcrafted",
-  "author": {
-    "name": "febryars33",
-    "url": "https://github.com/febryars33/colorcrafted"
-  },
+  "name": "@febryars33/colorcrafted",
+  "author": "febryars33 (https://github.com/febryars33/colorcrafted)",
   "version": "1.0.0",
   "license": "MIT",
   "devDependencies": {
@@ -16,5 +13,20 @@
     "css-compile": "sass --style expanded --source-map --embed-sources --no-error-css scss/:dist/css/",
     "css-minify": "npm-run-all --aggregate-output --parallel css-minify-*",
     "css-minify-main": "cleancss -O1 --format breakWith=lf --with-rebase --source-map --source-map-inline-sources --output dist/css/ --batch --batch-suffix \".min\" \"dist/css/*.css\" \"!dist/css/*.min.css\""
-  }
+  },
+  "description": "Colorcraft Styles",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febryars33/colorcrafted.git"
+  },
+  "keywords": [
+    "Minecraft"
+  ],
+  "bugs": {
+    "url": "https://github.com/febryars33/colorcrafted/issues"
+  },
+  "homepage": "https://github.com/febryars33/colorcrafted#readme"
 }
